@@ -1,0 +1,13 @@
+C:\Users\James\documents\visual studio 2010\Projects\A1-JEnglish1\A1-JEnglish1\bin\Debug\A1-JEnglish1.exe.config
+C:\Users\James\documents\visual studio 2010\Projects\A1-JEnglish1\A1-JEnglish1\bin\Debug\customers-F2012.accdb
+C:\Users\James\documents\visual studio 2010\Projects\A1-JEnglish1\A1-JEnglish1\bin\Debug\A1-JEnglish1.exe
+C:\Users\James\documents\visual studio 2010\Projects\A1-JEnglish1\A1-JEnglish1\bin\Debug\A1-JEnglish1.pdb
+C:\Users\James\documents\visual studio 2010\Projects\A1-JEnglish1\A1-JEnglish1\bin\Debug\A1-JEnglish1.xml
+C:\Users\James\documents\visual studio 2010\Projects\A1-JEnglish1\A1-JEnglish1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\documents\visual studio 2010\Projects\A1-JEnglish1\A1-JEnglish1\obj\x86\Debug\A1_JEnglish.frmMain.resources
+C:\Users\James\documents\visual studio 2010\Projects\A1-JEnglish1\A1-JEnglish1\obj\x86\Debug\A1_JEnglish.Resources.resources
+C:\Users\James\documents\visual studio 2010\Projects\A1-JEnglish1\A1-JEnglish1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\James\documents\visual studio 2010\Projects\A1-JEnglish1\A1-JEnglish1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\James\documents\visual studio 2010\Projects\A1-JEnglish1\A1-JEnglish1\obj\x86\Debug\A1-JEnglish1.exe
+C:\Users\James\documents\visual studio 2010\Projects\A1-JEnglish1\A1-JEnglish1\obj\x86\Debug\A1-JEnglish1.xml
+C:\Users\James\documents\visual studio 2010\Projects\A1-JEnglish1\A1-JEnglish1\obj\x86\Debug\A1-JEnglish1.pdb

@@ -1,0 +1,6 @@
+C:\Users\James\AppData\Local\Temporary Projects\A1-JEnglish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\AppData\Local\Temporary Projects\A1-JEnglish\obj\x86\Debug\A1_JEnglish.frmMain.resources
+C:\Users\James\AppData\Local\Temporary Projects\A1-JEnglish\obj\x86\Debug\A1_JEnglish.Resources.resources
+C:\Users\James\AppData\Local\Temporary Projects\A1-JEnglish\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\James\AppData\Local\Temporary Projects\A1-JEnglish\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\James\AppData\Local\Temporary Projects\A1-JEnglish\bin\Debug\A1-JEnglish.exe.config
